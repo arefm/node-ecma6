@@ -2,7 +2,9 @@
  * let
  * ====================================================================================================
  * The let statement declares a block scope local variable, optionally initializing it to a value.
- * 
+ *
+ * MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
+ * RUN: node --use-strict index.js
  */
 
 (function letTest() {
