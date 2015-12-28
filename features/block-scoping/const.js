@@ -5,7 +5,9 @@
  * is immutable, just that the variable identifier cannot be reassigned.
  *
  * MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
- * RUN: node --use-strict const.js
+ * RUN: node const.js
+ *
+ * STRICT MODE: NOT REQUIRED
  */
 
 //Sample.1

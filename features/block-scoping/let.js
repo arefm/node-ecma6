@@ -5,6 +5,8 @@
  *
  * MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
  * RUN: node --use-strict let.js
+ *
+ * STRICT MODE: REQUIRED
  */
 
 //Sample.1
