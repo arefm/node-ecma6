@@ -1,0 +1,23 @@
+{
+  "name": "node-ecma6",
+  "version": "1.0.0",
+  "description": "test node.js with ecmascript 2015",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arefm/node-ecma6.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ecmascript"
+  ],
+  "author": "Aref Mirhosseini <code@arefmirhosseini.com> (http://arefmirhosseini.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arefm/node-ecma6/issues"
+  },
+  "homepage": "https://github.com/arefm/node-ecma6#readme"
+}
